@@ -1,0 +1,18 @@
+{
+    "name": "daverandom/code39",
+    "description": "Code 39 barcode generation library for PHP",
+    "keywords": ["code39", "barcode"],
+    "license": "WTFPL",
+    "authors": [
+        {
+            "name": "Chris Wright",
+            "homepage": "http://chrisnemr.net"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "autoload": {
+        "psr-0": { "Code39": "src" }
+    }
+}
